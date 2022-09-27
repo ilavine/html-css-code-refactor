@@ -2,6 +2,11 @@
 
 The purpose of this week's challenge was **Code Refactoring**, i.e.e improving existing code (improving it without changing what it does). For this particular Challenge, refactoring has been done on the existing code to make it more accessible. 
 
+**The following issues have been addressed**:
+
+* Refactiored anchor elements to ensure that navigation links work correctly
+* 
+
 ## User Story
 
 ```
@@ -64,7 +69,7 @@ Be sure to add, commit, and push your work to see the most up-to-date version of
 >
 > * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria: 
+This Challenge is graded based on the following criteria: git 
 
 ### Technical Acceptance Criteria: 40%
 
