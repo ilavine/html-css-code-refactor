@@ -13,9 +13,9 @@ The purpose of this week's challenge was **Code Refactoring**, i.e. improving ex
 * A new GitHub repository on your GitHub and cloned to the local machine. The `git add`, `git commit`, and `git push` commands have been used to push the code to remote repository.
 * The web page has been deployed via GitHub pages. 
 
-**The URL of the deployed application:**
+**The URL of the deployed application:** https://ilavine.github.io/html-css-code-refactor/
 
-**The URL of the GitHub repository:**
+**The URL of the GitHub repository:** https://github.com/ilavine/html-css-code-refactor
 
 ## User Story
 
