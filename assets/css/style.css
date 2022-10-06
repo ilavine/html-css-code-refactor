@@ -16,7 +16,7 @@ h1 {
     font-size: 48px;
 }
 
-h2 {
+h2, h4 {
     margin-bottom: 20px;
     font-size: 36px;
 }
